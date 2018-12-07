@@ -1,6 +1,8 @@
 # Convolutional-Neural-Network-Based-Gait-Recognition
 My MSc project: Contain GEINet &amp; Openpose method
+
 做的比较赶，没有整理代码，请见谅
+
 Based on CASIA-B Dataset
 
 Full codes are available in code.zip file
